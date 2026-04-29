@@ -23,4 +23,4 @@ Upload your resume (PDF, DOCX, or TXT), hit submit, and you’ll get a list of j
 ----
 
 
-### LIVE DEMO  --- **https://smartrecruitai-app.onrender.com/**
+### LIVE DEMO  --- [SmartRecruitAI](https://smartrecruitai-app.onrender.com/)
